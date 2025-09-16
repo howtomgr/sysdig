@@ -1,0 +1,60 @@
+{
+  "category": "monitoring",
+  "created_date": "2025-09-15T22:48:59.235227",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "sysdig is a free and open-source system exploration. Sysdig provides system exploration and troubleshooting tool",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/monitoring/sysdig",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/monitoring/sysdig",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.235252",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "sysdig",
+  "repository_url": "https://github.com/howtomgr/sysdig",
+  "spec_version": "2.0",
+  "subcategory": "monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "sysdig Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/monitoring/sysdig"
+}
